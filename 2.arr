@@ -7,7 +7,7 @@ string-to-upper("hello cs2000")
 
 overlay(circle(50, "solid", "blue"), rectangle(200, 100, "solid", "yellow"))
 
-above(rectangle(200, 100, "solid", "green"), rectangle(200, 100, "solid", "purple"))
+above(rectangle(200, 100, "solid", "green"), )rectangle(200, 100, "solid", "purple")
 
 rotate(5, rectangle(100, 20, "solid", "red"))
 rotate(-220, rectangle(100, 20, "solid", "red"))
